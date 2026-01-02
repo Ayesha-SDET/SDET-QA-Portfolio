@@ -74,7 +74,4 @@ graph TD
 - Monitor **metrics**: test coverage, defect detection rate, regression execution time.
 - Maintain clear **reporting** and **communication channels** for cross-functional teams.
 
----
-
-This workflow demonstrates a **practical, recruiter-ready CI/CD pipeline** for QA and SDET roles, emphasizing **automation, early defect detection, and release confidence**.
 
