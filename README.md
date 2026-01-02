@@ -83,7 +83,7 @@ npx playwright test --headless --parallel --reporter=html
 
 ## Contact
 
-* **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/ayesha78699/)]
+* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/ayesha78699/)]
 * **Email:** [ayesha.uni.hudd@gmail.com]
 
 
